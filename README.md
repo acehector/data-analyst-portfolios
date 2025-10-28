@@ -46,19 +46,19 @@ Based on $k=4$, the customer are clustered into 4 segments that are:
 1. **Cluster 2: VIP Customers**
    * Characteristics: **Lowest** recency, **Highest** frequency and monetary.
    * Analysis: **The best** customer segment, recently shopped, very frequently, and spent the most money.
-   * Quantity: 1047 customers (24.1%)
+   * Quantity: 864 customers (19.9%)
 2. **Cluster 0: Loyal Customers**
    * Characteristics: **Quite low** recency, **Average** frequency and monetary.
-   * Analysis: **The largest** group and concistently shop. **The main/core** of the business.
-   * Quantity: 1851 customers (42.6%)
+   * Analysis: **The second largest** group and concistently shop. **The main/core** of the business.
+   * Quantity: 1222 customers (28.2%)
 3. **Cluster 1: At-Risk Customers**
    * Characteristics: **Quite high** recency, **Low** frequency and monetary.
    * Analysis: The customers haven't purchased in several months. They are at high risk of churn if not re-"activated" immediately.
-   * Quantity: 1056 customers (24.3%)
+   * Quantity: 870 customers (20.1%)
 4. **Cluster 3: "Lost" Customers**
    * Characteristics: **Highest** recency, **Lowest** frequency and monetary.
    * Analysis: The customers haven't purchased in a long time and most likely will not purchased in the future.
-   * Quantity: 389 customers (8.9%)
+   * Quantity: 1382 customers (31.9%)
 
 ## Business Recommendation
 Based on the results, here are the actionable marketing strategies:
